@@ -1,6 +1,6 @@
 # 📊 Avaliação do Modelo de Previsão de Estoque
 
-Este repositório contém um modelo de **Machine Learning** desenvolvido para prever a variável **`QUANTIDADE_ESTOQUE`**. A seguir estão descritas as principais **métricas utilizadas para avaliar o desempenho do modelo**, bem como a interpretação prática de cada uma.
+Este repositório contém um modelo de **Machine Learning** desenvolvido para prever a variável **`QUANTIDADE_ESTOQUE`** em Determinado dia do mês. A seguir estão descritas as principais **métricas utilizadas para avaliar o desempenho do modelo**, bem como a interpretação prática de cada uma.
 
 ---
 
